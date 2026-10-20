@@ -61,6 +61,7 @@ pre {
 }
 code {
   font-size: large;
+  font-weight: bold;
 }
 
 h2 {
@@ -74,7 +75,7 @@ td:first-of-type {
 
 footer {
   border-top: 1px solid color-mix(in srgb, #c7c7c7 30%, transparent);
-  margin-top: 2rem;
+  margin-top: 3rem;
   font-size: small;
 }
 

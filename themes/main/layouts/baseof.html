@@ -6,8 +6,9 @@
     <meta name="viewport" content="width=device-width">
     <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
     <meta name="author" content="Paul Hofmann" />
-    <link rel="stylesheet" href="/css/main.css" />
-    <script src="/js/snow.js" defer></script>
+    <link rel="stylesheet" href="{{ "css/main.css" | relURL }}" />
+    <link rel="icon" href="{{ "favicon.ico" | relURL }}" />
+    <script src="{{ "js/snow.js" | relURL }}" defer></script>
   </head>
 
   <body>

@@ -1,10 +1,13 @@
 # Base configuration
-baseURL: 'https://www.paulhofmann.dev/'
-title: 'paulhofmann.dev'
-languageCode: 'en-us'
+baseURL: 'https://paulinprogress.github.io/Christmas-Greetings-2026/'
+title: 'Merry Christmas!'
+locale: 'en-us'
 
 # Output/publish directory
 publishDir: "public"
+
+# Theme configuration
+theme: ['main']
 
 # Markdown configuration
 markup:
@@ -27,6 +30,3 @@ markup:
   tableOfContents:
     startLevel: 2
     endLevel: 4
-
-# Theme configuration
-theme: ['main']

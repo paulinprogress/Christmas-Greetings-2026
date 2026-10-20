@@ -1,13 +1,26 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Ingrid+Darling&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Miss+Fajardose&display=swap');
+
 body {
-  color: #222;
+  background-color: #822733;
+  color: #c7c7c7;
   font-family: sans-serif;
   line-height: 1.5;
   margin: 1rem;
-  max-width: 768px;
+  /*max-width: 768px;*/
+}
+
+h1 {
+  font-family: "Miss Fajardose", cursive;
+  font-size: 222px;
+  font-weight: 400;
+  font-style: normal;
+  margin: 0;
+  margin-left: 8px;
 }
 
 a {
-  color: #00e;
+  color: #192235;
   text-decoration: none;
 }

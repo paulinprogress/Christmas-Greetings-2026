@@ -17,6 +17,6 @@ hugo.linux
 /.hugo_build.lock
 
 ### Other ###
-_temp/
 archetypes/
 static/test
+__pycache__

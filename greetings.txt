@@ -1,0 +1,7 @@
+# One greeting per line:  from|for
+# Blank lines and lines starting with # are ignored.
+
+Anna|Erik
+Lisa|Olle
+Mamma|Pappa
+Johan|Karin

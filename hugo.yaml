@@ -1,0 +1,32 @@
+# Base configuration
+baseURL: 'https://www.paulhofmann.dev/'
+title: 'paulhofmann.dev'
+languageCode: 'en-us'
+
+# Output/publish directory
+publishDir: "public"
+
+# Markdown configuration
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      hardWraps: true
+      unsafe: true
+      xhtml: false
+      parser:
+        autoHeadingID: true
+    extensions: # LaTeX line-break fix
+      passthrough:
+        enable: true
+        delimiters:
+          block:
+            - ["$$", "$$"]
+          inline:
+            - ["$", "$"]
+  tableOfContents:
+    startLevel: 2
+    endLevel: 4
+
+# Theme configuration
+theme: ['main']

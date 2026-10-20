@@ -52,4 +52,4 @@ catalogue: "XMAS-D54CA9"
 | Time to fly there by jet | about 12.6 million years |
 | Spectral type | K2V |
 | Brightness | magnitude 3.73 (lower means brighter) |
-| Fun fact | A young star, less than a billion years old, with a planet and dusty discs around it. |
+| Fun fact | A young star, only about a billion years old, with a giant planet and dusty discs around it. |

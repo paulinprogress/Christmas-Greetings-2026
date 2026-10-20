@@ -47,9 +47,9 @@ catalogue: "XMAS-F38554"
 |---|---|
 | Catalogue no. | XMAS-F38554 |
 | Shines like | Algol, in the constellation Perseus |
-| Distance from Earth | 90 light-years (about 8.5 × 10¹⁴ km) |
-| The light you see left in | the year 1936 |
-| Time to fly there by jet | about 107.9 million years |
+| Distance from Earth | 93 light-years (about 8.8 × 10¹⁴ km) |
+| The light you see left in | the year 1933 |
+| Time to fly there by jet | about 111.5 million years |
 | Spectral type | B8V |
-| Brightness | magnitude 2.1 (lower means brighter) |
-| Fun fact | The 'Demon Star': every 2.9 days it dims as a companion star passes in front of it. |
+| Brightness | magnitude between 2.1 and 3.4 (lower means brighter) |
+| Fun fact | The 'Demon Star': every 2.87 days it dims as a companion star passes in front of it. |

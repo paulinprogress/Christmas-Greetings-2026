@@ -51,5 +51,5 @@ catalogue: "XMAS-EE2EC2"
 | The light you see left in | the year 1476 |
 | Time to fly there by jet | about 659.5 million years |
 | Spectral type | M1-2Ia |
-| Brightness | magnitude 0.5 (lower means brighter) |
+| Brightness | magnitude varies between 0.0 and 1.6 (lower means brighter) |
 | Fun fact | A red supergiant so huge that, in place of the Sun, it would swallow the orbits of Mercury, Venus, Earth and Mars. |

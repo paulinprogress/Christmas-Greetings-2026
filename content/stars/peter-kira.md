@@ -51,5 +51,5 @@ catalogue: "XMAS-DE386D"
 | The light you see left in | the year 1726 |
 | Time to fly there by jet | about 359.7 million years |
 | Spectral type | M7IIIe |
-| Brightness | magnitude 3.0 (lower means brighter) |
+| Brightness | magnitude between 2.0 and 10.1 (lower means brighter) |
 | Fun fact | Pulses in brightness over about 11 months, swinging from easily visible to nearly invisible. |

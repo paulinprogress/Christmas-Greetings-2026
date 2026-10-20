@@ -47,9 +47,9 @@ catalogue: "XMAS-74C548"
 |---|---|
 | Catalogue no. | XMAS-74C548 |
 | Shines like | Deneb, in the constellation Cygnus |
-| Distance from Earth | 2,600 light-years (about 2.5 × 10¹⁶ km) |
-| The light you see left in | 575 BC |
-| Time to fly there by jet | about 3.1 billion years |
+| Distance from Earth | 1,500 light-years (about 1.4 × 10¹⁶ km) |
+| The light you see left in | the year 526 |
+| Time to fly there by jet | about 1.8 billion years |
 | Spectral type | A2Ia |
 | Brightness | magnitude 1.25 (lower means brighter) |
-| Fun fact | One of the most luminous stars you can see, shining with the light of tens of thousands of Suns. |
+| Fun fact | One of the most luminous stars you can see, shining with the light of at least 50,000 Suns. |

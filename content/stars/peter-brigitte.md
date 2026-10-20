@@ -47,9 +47,9 @@ catalogue: "XMAS-ABBA7E"
 |---|---|
 | Catalogue no. | XMAS-ABBA7E |
 | Shines like | Polaris, in the constellation Ursa Minor |
-| Distance from Earth | 430 light-years (about 4.1 × 10¹⁵ km) |
-| The light you see left in | the year 1596 |
-| Time to fly there by jet | about 515.6 million years |
+| Distance from Earth | 446 light-years (about 4.2 × 10¹⁵ km) |
+| The light you see left in | the year 1580 |
+| Time to fly there by jet | about 534.8 million years |
 | Spectral type | F7Ib |
 | Brightness | magnitude 1.98 (lower means brighter) |
 | Fun fact | The North Star: it hardly moves while the whole sky turns around it. |

@@ -52,4 +52,4 @@ catalogue: "XMAS-F9C747"
 | Time to fly there by jet | about 20.0 million years |
 | Spectral type | A7V |
 | Brightness | magnitude 0.76 (lower means brighter) |
-| Fun fact | Spins so fast (a day lasts under 10 hours) that it is squashed into an oval. |
+| Fun fact | Spins so fast (a day lasts under 9 hours) that it is squashed into an oval. |

@@ -47,9 +47,9 @@ catalogue: "XMAS-2B9BBF"
 |---|---|
 | Catalogue no. | XMAS-2B9BBF |
 | Shines like | Alnilam, in the constellation Orion |
-| Distance from Earth | 2,000 light-years (about 1.9 × 10¹⁶ km) |
-| The light you see left in | the year 26 |
-| Time to fly there by jet | about 2.4 billion years |
+| Distance from Earth | 1,250 light-years (about 1.2 × 10¹⁶ km) |
+| The light you see left in | the year 776 |
+| Time to fly there by jet | about 1.5 billion years |
 | Spectral type | B0Ia |
 | Brightness | magnitude 1.69 (lower means brighter) |
 | Fun fact | The middle star of Orion's Belt. Its name means 'string of pearls'. |

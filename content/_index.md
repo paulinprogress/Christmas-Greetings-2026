@@ -1,9 +1,7 @@
-+++
-title = 'Home'
-date = 2023-01-01T08:00:00-07:00
-draft = false
-+++
+---
+title: "Home"
+---
 
-Laborum voluptate pariatur ex culpa magna nostrud est incididunt fugiat
-pariatur do dolor ipsum enim. Consequat tempor do dolor eu. Non id id anim anim
-excepteur excepteur pariatur nostrud qui irure ullamco.
+_Psst... the night sky has been busy this December. 🌟_
+
+_Every greeting on this page comes with its own hand-crafted star, one that is completely unique, secretly related to a real star far out in space, and made for just one person. Open one to find out who it's from, who it's for, and how many million years it would take to fly there by jet (spoiler: a lot). Pick a greeting and meet your star:_

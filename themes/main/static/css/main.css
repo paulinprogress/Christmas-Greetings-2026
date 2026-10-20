@@ -29,13 +29,13 @@ li > a:hover {
 
 h1 {
   font-family: "Miss Fajardose", cursive;
-  font-size: 192px;
+  font-size: 160px;
   font-weight: 400;
   font-style: normal;
-  line-height: 220px;
+  line-height: normal;
   margin: 0;
-  margin-left: -1rem;
   margin-bottom: 2rem;
+  white-space: nowrap;
 }
 
 .two-column {
@@ -84,18 +84,44 @@ footer {
     max-width: none;
   }
 
-  h1 {
-    font-size: 128px;
-    line-height: normal;
-  }
-
   pre {
     margin-left: 0;
   }
+
+  h1 {
+    font-size: 108px;
+  }
 }
 
-@media (max-width: 650px) {
+@media (max-width: 590px) {
+  body {
+    margin: 1rem;
+    font-size: small;
+  }
+
   h1 {
-    font-size: 92px;
+    font-size: 72px;
+    font-weight: 400;
+  }
+
+  code {
+    font-size: small;
+    font-weight: bold;
+  }
+  pre {
+    margin-bottom: 3rem;
+  }
+
+  td:first-of-type {
+    padding-right: 1rem;
+  }
+  td {
+    vertical-align: text-top;
+    padding-bottom: 4px;
+    border-bottom: 1px solid color-mix(in srgb, #c7c7c7 30%, transparent);
+  }
+
+  footer {
+    border: 0;
   }
 }

@@ -1,0 +1,55 @@
+---
+title: "For Hanni, from Brigitte"
+from: "Brigitte"
+for: "Hanni"
+star: "Algol"
+color: "#aabfff"
+catalogue: "XMAS-C69E00"
+---
+
+*Merry Christmas, Hanni! Brigitte wanted you to have a star of your very own:*
+
+~~~~
+
+
+                 *
+                             .:.  .
+             | x             `''''
+            -+-          .   '''''
+        ⁺    |       |       ''⋆⋆'
+                    -+-      '⋆⋆⋆'
+        x            |       ⋆***⋆
+                            '⋆*+*⋆
+                 `           *+++'        :   '
+                ,'''''  '    *xx+'       '''' `
+                  ''⋆***⋆.   +XX*     '⋆⋆⋆'''      `
+                     '*++++' *#X.  ⋆++**⋆⋆''
+                        '*xXX@@@+XXx+*':
+                         ,,'@@@@@'
+                  , '⋆*+xX##+@@@##Xx⋆
+                '⋆⋆*++xxx+'  xX⋆:⋆xXxx+*⋆  .
+            '''⋆⋆*****⋆' -+-⋆xx⋆   '*++++*⋆'',
+          '''⋆⋆⋆⋆⋆⋆''     | ⋆++⋆     '⋆****⋆⋆''
+     .   '''''''            ⋆**'     `  ''⋆⋆⋆⋆'''
+           '           `    '⋆⋆'           '''''''        +
+               ,            ''' `            ', .,
+                           ,'''                     '   x
+
+                |         .
+               -+-      .      `
+                |           :
+       +              :
+
+
+~~~~
+
+| | |
+|---|---|
+| Catalogue no. | XMAS-C69E00 |
+| Shines like | Algol, in the constellation Perseus |
+| Distance from Earth | 90 light-years (about 8.5 × 10¹⁴ km) |
+| The light you see left in | the year 1936 |
+| Time to fly there by jet | about 107.9 million years |
+| Spectral type | B8V |
+| Brightness | magnitude 2.1 (lower means brighter) |
+| Fun fact | The 'Demon Star': every 2.9 days it dims as a companion star passes in front of it. |

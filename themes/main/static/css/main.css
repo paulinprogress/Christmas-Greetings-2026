@@ -68,9 +68,19 @@ h2 {
   font-size: larger;
 }
 
+td {
+  vertical-align: text-top;
+}
 td:first-of-type {
   font-weight: bold;
+  white-space: nowrap;
   padding-right: 2rem;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid color-mix(in srgb, #c7c7c7 30%, transparent);
+  margin: 2rem 0;
 }
 
 footer {
@@ -116,7 +126,6 @@ footer {
     padding-right: 1rem;
   }
   td {
-    vertical-align: text-top;
     padding-bottom: 4px;
     border-bottom: 1px solid color-mix(in srgb, #c7c7c7 30%, transparent);
   }

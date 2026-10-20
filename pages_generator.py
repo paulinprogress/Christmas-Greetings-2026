@@ -180,26 +180,22 @@ color: {json.dumps(color)}
 catalogue: {json.dumps(catalogue)}
 ---
 
-**from:** {s}
-
-**for:** {r}
+*Merry Christmas, {r}! {s} wanted you to have a star of your very own:*
 
 ~~~~
 {art}
 ~~~~
 
-*Merry Christmas, {r}! {s} wanted you to have a star of your very own.*
-
-## Star facts
-
-- **Catalogue no.:** {catalogue}
-- **Shines like:** {name}, in the constellation {const}
-- **Distance from Earth:** {fmt_ly(ly)} light-years (about {sci(km)} km)
-- **The light you see left in:** {fmt_year(light_year)}
-- **Time to fly there by jet:** about {fmt_years(jet_years)} years
-- **Spectral type:** {spectral}
-- **Brightness:** magnitude {mag} (lower means brighter)
-- **Fun fact:** {fact}
+| | |
+|---|---|
+| Catalogue no. | {catalogue} |
+| Shines like | {name}, in the constellation {const} |
+| Distance from Earth | {fmt_ly(ly)} light-years (about {sci(km)} km) |
+| The light you see left in | {fmt_year(light_year)} |
+| Time to fly there by jet | about {fmt_years(jet_years)} years |
+| Spectral type | {spectral} |
+| Brightness | magnitude {mag} (lower means brighter) |
+| Fun fact | {fact} |
 """
 
 

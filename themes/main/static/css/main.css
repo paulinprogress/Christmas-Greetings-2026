@@ -1,26 +1,93 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Ingrid+Darling&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Miss+Fajardose&display=swap');
 
 body {
   background-color: #822733;
   color: #c7c7c7;
-  font-family: sans-serif;
+  font-family: "Inter", sans-serif;
   line-height: 1.5;
-  margin: 1rem;
-  /*max-width: 768px;*/
-}
-
-h1 {
-  font-family: "Miss Fajardose", cursive;
-  font-size: 222px;
-  font-weight: 400;
-  font-style: normal;
-  margin: 0;
-  margin-left: 8px;
+  margin: 2rem;
+  max-width: 900px;
 }
 
 a {
-  color: #192235;
+  color: #c7c7c7;
   text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* PAGES */
+
+h1 {
+  font-family: "Miss Fajardose", cursive;
+  font-size: 192px;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 220px;
+  margin: 0;
+  margin-left: -1rem;
+  margin-bottom: 2rem;
+}
+
+.two-column {
+  display: flex;
+  justify-content: left;
+
+  gap: 3rem;
+  
+  border-bottom: 1px solid color-mix(in srgb, #c7c7c7 30%, transparent);
+  padding: 0.2rem 0.5rem;
+  margin-left: -0.5rem;
+
+  margin-bottom: 1rem;
+}
+.two-column > div {
+  font-size: small;
+}
+
+pre {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  margin-left: 5rem;
+}
+code {
+  font-size: large;
+}
+
+h2 {
+  font-size: larger;
+}
+
+td:first-of-type {
+  font-weight: bold;
+  padding-right: 2rem;
+}
+
+footer {
+  border-top: 1px solid color-mix(in srgb, #c7c7c7 30%, transparent);
+  margin-top: 2rem;
+  font-size: small;
+}
+
+@media (max-width: 930px) {
+  body {
+    max-width: none;
+  }
+
+  h1 {
+    font-size: 128px;
+    line-height: normal;
+  }
+
+  pre {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 650px) {
+  h1 {
+    font-size: 92px;
+  }
 }

@@ -1,0 +1,7 @@
+{{ define "main" }}
+  <div class="two-column">
+    <div><b>from:</b> {{ .Params.from }}</div>
+    <div><b>for:</b> {{ .Params.for }}</div>
+  </div>
+  {{ .Content }}
+{{ end }}
